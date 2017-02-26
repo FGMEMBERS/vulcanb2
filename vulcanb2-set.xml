@@ -12,8 +12,25 @@ Started June 6 2006 by Stuart Buchanan,
   <sim>
 
     <description>Avro Vulcan B.2</description>
+    <long-description>One of the "V-Bombers", designed in the 1950s for long-range delivery of nuclear weapons, and one of the parts of the UK nuclear deterent during the cold war.  Continued in RAF service into the 1980s.</long-description>
     <author>Stuart Buchanan</author>
     <status>beta</status>
+
+    <tags>
+      <tag>bomber</tag>
+      <tag>avro</tag>
+      <tag>1950s</tag>
+      <tag>1960s</tag>
+      <tag>1970s</tag>
+      <tag>1980s</tag>
+      <tag>coldwar</tag>
+      <tag>retractable-gear</tag>
+      <tag>delta</tag>
+      <tag>refuel</tag>
+      <tag>jet</tag>
+      <tag>4-engine</tag>
+    </tags>
+
     <rating>
       <FDM type="int">1</FDM>
       <systems type="int">4</systems>
