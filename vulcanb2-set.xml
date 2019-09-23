@@ -42,6 +42,19 @@ Started June 6 2006 by Stuart Buchanan,
     <flight-model archive="y">jsb</flight-model>
     <aero archive="y">vulcanb2</aero>
 
+    <previews>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>exterior1.png</path>
+      </preview>
+      <preview>
+        <type>panel</type>
+        <splash type="bool">false</splash>
+        <path>cockpit.png</path>
+      </preview>
+    </previews>
+
     <startup>
       <splash-texture>Aircraft/vulcanb2/vulcanb2-splash.rgb</splash-texture>
     </startup>
